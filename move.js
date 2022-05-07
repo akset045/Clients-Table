@@ -1,5 +1,5 @@
 
-fetch("base.json")
+fetch("data/base.json")
 
 .then(function(response){
 	return response.json();
