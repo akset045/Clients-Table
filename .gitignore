@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+[Oo]bj/
+[Dd]ebug/
+[Bb]in/
+[Tt]humbs.db
+.ini
+*~
+
+base.json
+data/
