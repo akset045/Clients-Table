@@ -8,7 +8,7 @@ table {
 	width: 100%;
 	min-width: 100%;
 	/* border: 1px solid black; */
-	border-radius: 10px;
+	border-radius: 6px;
 
 }
 
@@ -16,6 +16,7 @@ thead {
 	height: 30px;
 	background-color: yellow;
 	border: 1px solid black;
+	border-radius: 6px;
 
 }
 
@@ -39,10 +40,12 @@ td {
 
 thead>tr:hover {
 	background: yellow;
+	border-radius: 6px;
 }
 
 tr:hover{
 	background: rgba(255, 0, 238, 0.566);
+	border-radius: 6px;
 }
 
 td:hover {
@@ -55,10 +58,12 @@ td:hover {
 td:hover::selection {
 	background: yellow;
 	color: black;
+	border-radius: 6px;
 }
 
 tr {
 	border: 1px solid black;
+	border-radius: 6px;
 
 }
 
