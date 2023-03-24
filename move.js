@@ -1,5 +1,5 @@
 
-fetch("_data/base.json")
+fetch("_data/base-zont.json")
 
 .then(function(response){
 	return response.json();
